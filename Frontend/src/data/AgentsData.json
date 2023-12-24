@@ -1,0 +1,1502 @@
+[
+  {
+    "Ticket_ID": "22d3f4ad07bc",
+    "Text_Description": "Check answer",
+    "Question": "What is the national language of Spain?",
+    "Answer": "C",
+    "Agent_Name": "Sameer Shankar",
+    "Agent_Email": "sulekha_dadhich304@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "b61fdcd2055b",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent that doesn't touch the Arctic Ocean?",
+    "Answer": "Durian",
+    "Agent_Name": "Kaavya Malik",
+    "Agent_Email": "rashi_dixit177@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "860ff2d06583",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for nitrogen?",
+    "Answer": "Cairo",
+    "Agent_Name": "Abhinav Nishad",
+    "Agent_Email": "sankalp_keshari282@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "b9eb11366ef4",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Facebook",
+    "Agent_Name": "Nivedita Goel",
+    "Agent_Email": "preksha_bansal498@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "6ba4fe72312d",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living organism by mass?",
+    "Answer": "Durian",
+    "Agent_Name": "Sandeep Trivedi",
+    "Agent_Email": "mayuri_singhal553@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8c34d902fa76",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Spanish",
+    "Agent_Name": "Lipika Patwari",
+    "Agent_Email": "praveen_mumukshu582@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "15b3188ed07f",
+    "Text_Description": "Check answer",
+    "Question": "What is the national dish of Italy?",
+    "Answer": "Spanish",
+    "Agent_Name": "Sudhakar Khemka",
+    "Agent_Email": "kashinath_biswas461@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "af56b23d2f91",
+    "Text_Description": "Add question",
+    "Question": "What animal has the most hearts?",
+    "Answer": "Japan",
+    "Agent_Name": "Vandana Jha",
+    "Agent_Email": "jyotsana_dixit217@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "1427aa11fd1c",
+    "Text_Description": "Update question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Stapes",
+    "Agent_Name": "Narendra Guru",
+    "Agent_Email": "paritosh_roshan736@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "f19ed482ed47",
+    "Text_Description": "Add question",
+    "Question": "What is the national bird of the United States?",
+    "Answer": "Iguazu Falls",
+    "Agent_Name": "Kamala Roy",
+    "Agent_Email": "kartik_athawale252@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "76354a318ff7",
+    "Text_Description": "Add question",
+    "Question": "What is the hottest thing in the universe?",
+    "Answer": "Aconcagua",
+    "Agent_Name": "Mahalakshmi Thakur",
+    "Agent_Email": "sandeep_meena989@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "2b099716f06a",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "Spanish",
+    "Agent_Name": "Rajat Roy",
+    "Agent_Email": "pankaj_deshpande691@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "d073b8bad90a",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Mahua Bandopadhyay",
+    "Agent_Email": "rajnath_bahuguna746@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "7ed6c146899c",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Durian",
+    "Agent_Name": "Kamala Gaharwar",
+    "Agent_Email": "diwakar_verma433@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "95b13a5df1d7",
+    "Text_Description": "Add question",
+    "Question": "What is the world's smallest country by population?",
+    "Answer": "Africa",
+    "Agent_Name": "Manjushree Mondal",
+    "Agent_Email": "nupur_agrawal928@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "7dfae058ac09",
+    "Text_Description": "Add question",
+    "Question": "What is the capital of Russia?",
+    "Answer": "Durian",
+    "Agent_Name": "Soni Kaushik",
+    "Agent_Email": "himadri_ganguly777@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "6c65a5be8b09",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "He",
+    "Agent_Name": "Dinkar Jha",
+    "Agent_Email": "narayan_bachchan450@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "230014d0541b",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's smallest country?",
+    "Answer": "Mariana Trench",
+    "Agent_Name": "Gyanendra Bisht",
+    "Agent_Email": "ashish_reddy374@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "09e53d35d316",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Saguaro",
+    "Agent_Name": "Vivasvan Adarsh",
+    "Agent_Email": "sujan_malhotra325@outlook.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "30650ace647f",
+    "Text_Description": "Add question",
+    "Question": "What is the capital of Japan?",
+    "Answer": "Honey fungus",
+    "Agent_Name": "Tanuja Mehta",
+    "Agent_Email": "shashank_banerjee191@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "330e3e4d51df",
+    "Text_Description": "Add question",
+    "Question": "What was the first element ever created artificially?",
+    "Answer": "Durian",
+    "Agent_Name": "Preksha Nath",
+    "Agent_Email": "prayag_joshi440@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "fee1ba08058b",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Beluga sturgeon",
+    "Agent_Name": "Avnish Rawat",
+    "Agent_Email": "sushant_paswan692@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "5897e1d46377",
+    "Text_Description": "Check answer",
+    "Question": "What is the name of the world's tallest building?",
+    "Answer": "Portuguese",
+    "Agent_Name": "Surya Sardana",
+    "Agent_Email": "abhay_mehra521@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3bf5f0294685",
+    "Text_Description": "Check answer",
+    "Question": "What is the biggest planet in our solar system?",
+    "Answer": "Grand Canyon",
+    "Agent_Name": "Komal Dwivedi",
+    "Agent_Email": "lokendra_nagar512@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "31eaf7e20dbf",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's largest desert?",
+    "Answer": "New Delhi",
+    "Agent_Name": "Kangana Thackeray",
+    "Agent_Email": "shivanshi_nahar937@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "625429990ff7",
+    "Text_Description": "Add question",
+    "Question": "What ancient city was buried by volcanic ash for centuries?",
+    "Answer": "Turkey vulture",
+    "Agent_Name": "Mala Gandhi",
+    "Agent_Email": "puja_maurya711@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3fe46678f342",
+    "Text_Description": "Check answer",
+    "Question": "What is the capital of Egypt?",
+    "Answer": "Ag",
+    "Agent_Name": "Bhagirathi Basu",
+    "Agent_Email": "lakshya_roshan439@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "b4deace7beb6",
+    "Text_Description": "Add question",
+    "Question": "What is the world's oldest desert?",
+    "Answer": "Blue Whale",
+    "Agent_Name": "Aviral Goyal",
+    "Agent_Email": "hemant_parekh890@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "4f5a172ce2aa",
+    "Text_Description": "Add question",
+    "Question": "What is the capital of Australia?",
+    "Answer": "Durian",
+    "Agent_Name": "Jagriti Bose",
+    "Agent_Email": "tanushree_shekhawat593@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ea1582c1deae",
+    "Text_Description": "Add question",
+    "Question": "What is the world's longest river in South America?",
+    "Answer": "Spanish",
+    "Agent_Name": "Sameeksha Gond",
+    "Agent_Email": "lakshmi_shankar533@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "11ab70a3dca2",
+    "Text_Description": "Add question",
+    "Question": "What is the capital of China?",
+    "Answer": "Giraffe",
+    "Agent_Name": "Swapnil Chaudhari",
+    "Agent_Email": "anveshita_sinha517@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "bd1dd2e71fa7",
+    "Text_Description": "Add question",
+    "Question": "What is the world's longest river?",
+    "Answer": "Durian",
+    "Agent_Name": "Soham Nahar",
+    "Agent_Email": "jagdish_ghoshal530@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "19d44ec329f2",
+    "Text_Description": "Add question",
+    "Question": "What is the Great Wall of China made of?",
+    "Answer": "Everest",
+    "Agent_Name": "Shivangi Deol",
+    "Agent_Email": "chandika_saini472@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "de47ccae496d",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living coral reef system?",
+    "Answer": "Rome",
+    "Agent_Name": "Bhuwaneshwar Malik",
+    "Agent_Email": "kartik_khera733@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "f2b150ee3a1e",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living primate?",
+    "Answer": "Football (Soccer)",
+    "Agent_Name": "Harshad Bhatnagar",
+    "Agent_Email": "konkana_nair617@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "af40d06070d4",
+    "Text_Description": "Add question",
+    "Question": "What city is known as the \"Silicon Valley\" of the East Coast?",
+    "Answer": "Durian",
+    "Agent_Name": "Sudakshina Rai",
+    "Agent_Email": "anokhi_bhadauria434@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8624d6fb2240",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Ostrich",
+    "Agent_Name": "Tejas Dikshit",
+    "Agent_Email": "kashinath_goenka854@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "b0ce9c42de78",
+    "Text_Description": "Add question",
+    "Question": "What is the currency of Japan?",
+    "Answer": "Rose",
+    "Agent_Name": "Ritika Tomar",
+    "Agent_Email": "nitya_baghel848@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8470fce30b8f",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "N2",
+    "Agent_Name": "Ratnakar Jadhav",
+    "Agent_Email": "ranjana_rao767@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "9418ecb63b9d",
+    "Text_Description": "Add question",
+    "Question": "What is the national flower of England?",
+    "Answer": "Amazon",
+    "Agent_Name": "Madhur Kejriwal",
+    "Agent_Email": "sumitra_ahuja865@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "e20af76da2f5",
+    "Text_Description": "Update question",
+    "Question": "What is the only fruit that grows on a vine?",
+    "Answer": "Facebook",
+    "Agent_Name": "Prakash Bachchan",
+    "Agent_Email": "sulabh_shaw920@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "86e29abd23b2",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of France?",
+    "Answer": "English",
+    "Agent_Name": "Sonam Nair",
+    "Agent_Email": "dharmendra_rajpurohit354@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3710580e2f86",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Grape",
+    "Agent_Name": "Pinaka Bedi",
+    "Agent_Email": "vinay_roy379@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "d873a5da0d40",
+    "Text_Description": "Check answer",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Mercury",
+    "Agent_Name": "Anvesha Bansal",
+    "Agent_Email": "priyanka_mahto751@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a3fbe58240c8",
+    "Text_Description": "Check answer",
+    "Question": "What is the world's smallest ocean by area?",
+    "Answer": "Pompeii",
+    "Agent_Name": "Ranjana Tomar",
+    "Agent_Email": "jagvanti_dadlani763@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "e567e1793b56",
+    "Text_Description": "Add question",
+    "Question": "What is the world's highest mountain outside of Asia?",
+    "Answer": "Canberra",
+    "Agent_Name": "Pramod Bhatt",
+    "Agent_Email": "apoorv_vishwakarma443@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "9ef94ecb1749",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent that borders all the other continents?",
+    "Answer": "Facebook",
+    "Agent_Name": "Rani Ray",
+    "Agent_Email": "nidhi_bharadwaj741@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "776eb63c4a63",
+    "Text_Description": "Add question",
+    "Question": "What is the capital of India?",
+    "Answer": "Earthworm (up to 10!)",
+    "Agent_Name": "Anil Kayasth",
+    "Agent_Email": "samarth_agnihotri724@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "cb0ff255d95b",
+    "Text_Description": "Check answer",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Anvesha Yadav",
+    "Agent_Email": "bhagwati_surana480@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "59e796852f35",
+    "Text_Description": "Update question",
+    "Question": "What is the only bone in the human body that doesn't contain any blood vessels?",
+    "Answer": "Africa",
+    "Agent_Name": "Shefali Kapoor",
+    "Agent_Email": "tanisha_verma758@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "9e703f6a490d",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the first planet in our solar system?",
+    "Answer": "Cl",
+    "Agent_Name": "Parmeshwar Ahale",
+    "Agent_Email": "shivendra_paswan871@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "375768183ab1",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for water?",
+    "Answer": "Technetium",
+    "Agent_Name": "Kashika Chandravanshi",
+    "Agent_Email": "dhwani_gaur138@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3a12a96fdcd7",
+    "Text_Description": "Add question",
+    "Question": "What event marks the official start of spring in the Northern Hemisphere?",
+    "Answer": "O2",
+    "Agent_Name": "Pratyush Dabral",
+    "Agent_Email": "rupali_shorey508@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a50e8c24145f",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Cricket",
+    "Agent_Name": "Nirbhay Prajapati",
+    "Agent_Email": "nimisha_unadkat644@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "160ae33e0f3b",
+    "Text_Description": "Add question",
+    "Question": "What is the language spoken in Brazil?",
+    "Answer": "Amazon",
+    "Agent_Name": "Sujata Kejriwal",
+    "Agent_Email": "sagar_raina419@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "20af2c2f6c50",
+    "Text_Description": "Check answer",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Brick and stone",
+    "Agent_Name": "Avkash Thakur",
+    "Agent_Email": "jyotiraditya_poddar143@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "103c7a93266e",
+    "Text_Description": "Add question",
+    "Question": "What is the national sport of England?",
+    "Answer": "Peregrine falcon",
+    "Agent_Name": "Arjita Ketkar",
+    "Agent_Email": "sarthak_vats217@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8e5b6f865f1b",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Yen",
+    "Agent_Name": "Bhushan Bhattacharya",
+    "Agent_Email": "rakshit_biswas656@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ea666e9eabba",
+    "Text_Description": "Add question",
+    "Question": "What is the largest planet in our solar system by volume?",
+    "Answer": "Egyptians",
+    "Agent_Name": "Vinay Guha",
+    "Agent_Email": "palash_dhumal313@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "6d780e468bbc",
+    "Text_Description": "Update question",
+    "Question": "What is the capital of France?",
+    "Answer": "Jericho",
+    "Agent_Name": "Sohan Nautiyal",
+    "Agent_Email": "ishwar_advani290@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "2586f2945e0d",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent that doesn't have native snakes?",
+    "Answer": "Durian",
+    "Agent_Name": "Raghavi Shirke",
+    "Agent_Email": "sanidhya_banerjee149@outlook.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "50a542627891",
+    "Text_Description": "Add question",
+    "Question": "What animal lays the largest eggs in the world?",
+    "Answer": "H2O",
+    "Agent_Name": "Shantanu Didwania",
+    "Agent_Email": "mukti_raj614@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "114daba17a1c",
+    "Text_Description": "Check answer",
+    "Question": "What is the deepest canyon in the world?",
+    "Answer": "Spanish",
+    "Agent_Name": "Shakti Ojha",
+    "Agent_Email": "koustubh_raje998@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ffe559536388",
+    "Text_Description": "Add question",
+    "Question": "What is the fastest bird in the world?",
+    "Answer": "Helium (on Moon)",
+    "Agent_Name": "Himani Bhogle",
+    "Agent_Email": "ruchika_soni547@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "cf570df4e2fd",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for helium?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Kalavati Bhawsar",
+    "Agent_Email": "yukta_shrivastava873@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "eb7a6ff755d5",
+    "Text_Description": "Add question",
+    "Question": "What animal lays the largest eggs in the world?",
+    "Answer": "Spring equinox",
+    "Agent_Name": "Nripendra Tendulkar",
+    "Agent_Email": "ranjan_tomar202@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "81a32343ad95",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's largest rainforest?",
+    "Answer": "Durian",
+    "Agent_Name": "Sujit Srivastava",
+    "Agent_Email": "tanisha_kothari241@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "7e6a396426ff",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Anushka Anand",
+    "Agent_Email": "raghu_rathore139@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8f844582c45c",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Portuguese",
+    "Agent_Name": "Munni Ghosh",
+    "Agent_Email": "amber_chaubey731@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "fd50d6d4c8eb",
+    "Text_Description": "Add question",
+    "Question": "What city is known as the \"Eternal City\"?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Suneeta Pujari",
+    "Agent_Email": "deepak_bhargav613@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "31a2f95a874e",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living cactus?",
+    "Answer": "Angel Falls",
+    "Agent_Name": "Jagriti Lokhande",
+    "Agent_Email": "rimjhim_nair785@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "576e4dda296e",
+    "Text_Description": "Check answer",
+    "Question": "What is the capital of Mexico?",
+    "Answer": "Namib",
+    "Agent_Name": "Sujal Nishad",
+    "Agent_Email": "jeevika_jain366@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "7baaed5f77d3",
+    "Text_Description": "Check answer",
+    "Question": "What is the most popular social media platform?",
+    "Answer": "US Dollar",
+    "Agent_Name": "Himansh More",
+    "Agent_Email": "kiran_bhansali300@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "65b6552cafdd",
+    "Text_Description": "Add question",
+    "Question": "What is the only bird that can smell?",
+    "Answer": "Paris",
+    "Agent_Name": "Ashu Sahay",
+    "Agent_Email": "barkha_prakash209@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "acb8269bef5a",
+    "Text_Description": "Add question",
+    "Question": "What is the language spoken in Brazil?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Shambhavi Rajawat",
+    "Agent_Email": "sanjana_chakraborty952@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "23dd70f46c62",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Spanish",
+    "Agent_Name": "Sahdev Biswas",
+    "Agent_Email": "geetika_sahu650@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "4cd74b504796",
+    "Text_Description": "Check answer",
+    "Question": "What is the smallest bird in the world?",
+    "Answer": "Bald Eagle",
+    "Agent_Name": "Madhu Prajapati",
+    "Agent_Email": "nirbhay_raje476@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "325d4fa53559",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Prashant Mandal",
+    "Agent_Email": "jawahar_das279@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "01bedf940642",
+    "Text_Description": "Add question",
+    "Question": "What is the national animal of India?",
+    "Answer": "Honey fungus",
+    "Agent_Name": "Gargi Deo",
+    "Agent_Email": "vinay_agnihotri673@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "811f12bff8c3",
+    "Text_Description": "Update question",
+    "Question": "What is the largest living organism on Earth?",
+    "Answer": "The Big Bang",
+    "Agent_Name": "Hamsika Kumar",
+    "Agent_Email": "prashansa_sonkar389@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "04ca512b9755",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "Moscow",
+    "Agent_Name": "Suhasini Jaitley",
+    "Agent_Email": "madhurima_naik372@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ce2da7c2d406",
+    "Text_Description": "Add question",
+    "Question": "What is the national sport of Brazil?",
+    "Answer": "Daintree Rainforest",
+    "Agent_Name": "Pragati Lokhande",
+    "Agent_Email": "amrit_sinha114@hotmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "b1c603eabceb",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Vatican City",
+    "Agent_Name": "Vishnupriya Parekh",
+    "Agent_Email": "vishnupriya_jhunjhunwala458@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "0dd354e5cb7a",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Jagannath Modanwal",
+    "Agent_Email": "bunty_pushkar936@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8df763e43c0a",
+    "Text_Description": "Add question",
+    "Question": "What is the largest living organism on Earth by volume?",
+    "Answer": "Nile",
+    "Agent_Name": "Kirti Jadhav",
+    "Agent_Email": "nilesh_chaurasiya284@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "809e6e55f100",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for silver?",
+    "Answer": "Giant sequoia",
+    "Agent_Name": "Pramod Raina",
+    "Agent_Email": "malti_phogat312@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "5ea94a22bd0d",
+    "Text_Description": "Check answer",
+    "Question": "What is the chemical symbol for chlorine?",
+    "Answer": "Ostrich",
+    "Agent_Name": "Ikshita Scindia",
+    "Agent_Email": "ishani_malik827@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "835b8d4695ab",
+    "Text_Description": "Add question",
+    "Question": "What is the world's rarest blood type?",
+    "Answer": "Durian",
+    "Agent_Name": "Kanaklata Bajaj",
+    "Agent_Email": "nandu_bhasin119@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "76f12b9d42bc",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native penguins or polar bears?",
+    "Answer": "Vatican City",
+    "Agent_Name": "Mihika Patnaik",
+    "Agent_Email": "triveni_parmar771@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "7b024fa671c2",
+    "Text_Description": "Add question",
+    "Question": "What food holds the title of \"king of vegetables\"?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Naveen Kedia",
+    "Agent_Email": "shikha_oberoi557@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ea31950a60a8",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "Ne",
+    "Agent_Name": "Poornima Bahl",
+    "Agent_Email": "saurabh_nagar291@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "2c873d154386",
+    "Text_Description": "Check answer",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Ottawa",
+    "Agent_Name": "Reeta Ojha",
+    "Agent_Email": "kaushiki_jaitley857@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "88cb3f0c119f",
+    "Text_Description": "Add question",
+    "Question": "What is the language spoken in Brazil?",
+    "Answer": "Beijing",
+    "Agent_Name": "Meghna Kelkar",
+    "Agent_Email": "archita_ram833@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "675f1d7f82b6",
+    "Text_Description": "Update question",
+    "Question": "What is the capital of Canada?",
+    "Answer": "Portuguese",
+    "Agent_Name": "Rakhi Bhatt",
+    "Agent_Email": "aparna_kushwaha803@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "78c34ec47d64",
+    "Text_Description": "Add question",
+    "Question": "What is the most popular social media platform?",
+    "Answer": "Box jellyfish",
+    "Agent_Name": "Chandramauli Pandit",
+    "Agent_Email": "rakesh_pawar365@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "73194365b766",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's largest ocean trench?",
+    "Answer": "Indonesia",
+    "Agent_Name": "Shivanshi Mukhopadhyay",
+    "Agent_Email": "neel_prasad728@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "6d0bb9118870",
+    "Text_Description": "Add question",
+    "Question": "What was the first element discovered?",
+    "Answer": "Jupiter",
+    "Agent_Name": "Vipin Kaushik",
+    "Agent_Email": "amber_khurrana696@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "42c678ccb866",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for hydrogen?",
+    "Answer": "Echidna",
+    "Agent_Name": "Diksha Rout",
+    "Agent_Email": "ravishankar_gadkari399@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "1127e10bf469",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest island country by land area?",
+    "Answer": "H",
+    "Agent_Name": "Aniket Goenka",
+    "Agent_Email": "gangesh_mantri149@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "84166d4e8cec",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's biggest mammal?",
+    "Answer": "Spanish",
+    "Agent_Name": "Balraj Deshmukh",
+    "Agent_Email": "amartya_khajuria953@hotmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3b29075088d9",
+    "Text_Description": "Add question",
+    "Question": "What city is famously known for its Eiffel Tower?",
+    "Answer": "Chinese giant salamander",
+    "Agent_Name": "Vipin Ghosh",
+    "Agent_Email": "shilpa_kharwar753@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "d9c2c9227d8f",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Tokyo",
+    "Agent_Name": "Sonakshi Bhatia",
+    "Agent_Email": "kapil_mantri896@hotmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "299819342f71",
+    "Text_Description": "Add question",
+    "Question": "What is the largest ocean on Earth?",
+    "Answer": "Burj Khalifa",
+    "Agent_Name": "Chirag Khaitan",
+    "Agent_Email": "suryakanti_bhandari709@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "009db562bafd",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "South America",
+    "Agent_Name": "Shilpa Talwar",
+    "Agent_Email": "kartikeya_narula671@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "30e3c5c5c66a",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent that doesn't have a desert?",
+    "Answer": "Au",
+    "Agent_Name": "Kunti Mittal",
+    "Agent_Email": "akash_scindia752@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "094bf9c6cbba",
+    "Text_Description": "Update question",
+    "Question": "What is the largest moon in our solar system?",
+    "Answer": "Stapes",
+    "Agent_Name": "Sangeeta Mukhopadhyay",
+    "Agent_Email": "sanskriti_shah176@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "73d9c89db870",
+    "Text_Description": "Add question",
+    "Question": "What is the world's most poisonous animal?",
+    "Answer": "Tiger",
+    "Agent_Name": "Aviral Ambedkar",
+    "Agent_Email": "mohit_umar223@outlook.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "6aa61f9b00a8",
+    "Text_Description": "Check answer",
+    "Question": "What is the most popular social media platform?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Brajesh Hajariya",
+    "Agent_Email": "saurabh_thakkar836@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "d3f44854173a",
+    "Text_Description": "Add question",
+    "Question": "What is the national sport of Canada?",
+    "Answer": "Spanish",
+    "Agent_Name": "Siddharth Gujral",
+    "Agent_Email": "tushar_sisodia337@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "11e3d79249cf",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living freshwater fish?",
+    "Answer": "Jericho",
+    "Agent_Name": "Revati Bhogle",
+    "Agent_Email": "kaavya_athawale755@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a35671d90538",
+    "Text_Description": "Check answer",
+    "Question": "What is the chemical symbol for carbon?",
+    "Answer": "Sahara",
+    "Agent_Name": "Mrityunjay Lokhande",
+    "Agent_Email": "sundar_jaiswal278@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "64cd73977015",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's longest river in Africa?",
+    "Answer": "B",
+    "Agent_Name": "Sangeeta Bakshi",
+    "Agent_Email": "chandrama_deo921@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "fa5b91529ce7",
+    "Text_Description": "Check answer",
+    "Question": "What animal lays the largest eggs in the world?",
+    "Answer": "Winter solstice",
+    "Agent_Name": "Rambha Pratap",
+    "Agent_Email": "ankur_singhaniya640@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3ba428cd9887",
+    "Text_Description": "Update question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Gold",
+    "Agent_Name": "Nandan Piramal",
+    "Agent_Email": "vilas_puri407@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "dbdf26bd7d37",
+    "Text_Description": "Add question",
+    "Question": "What is the world's highest waterfall by volume?",
+    "Answer": "Mars",
+    "Agent_Name": "Juhi Thakur",
+    "Agent_Email": "suneeta_khattar173@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "e98cd2923e85",
+    "Text_Description": "Add question",
+    "Question": "What planet in our solar system is nicknamed \"the Red Planet\"?",
+    "Answer": "Africa",
+    "Agent_Name": "Shriram Supriyo",
+    "Agent_Email": "anuja_azad392@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "65999799a3cb",
+    "Text_Description": "Add question",
+    "Question": "What is the world's largest living amphibian?",
+    "Answer": "Mexico City",
+    "Agent_Name": "Triveni Gaur",
+    "Agent_Email": "rashika_jhunjhunwala618@outlook.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "dc9717e1a595",
+    "Text_Description": "Update question",
+    "Question": "What is the national currency of the United States?",
+    "Answer": "Greenland",
+    "Agent_Name": "Nilesh Dasgupta",
+    "Agent_Email": "sukritika_bachchan984@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "57cfc4b2612d",
+    "Text_Description": "Add question",
+    "Question": "What country boasts the nickname \"Land of the Rising Sun\"?",
+    "Answer": "Great Barrier Reef",
+    "Agent_Name": "Nimisha Shrivastava",
+    "Agent_Email": "dinesh_hatwal233@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3b8192405048",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for oxygen?",
+    "Answer": "Spanish",
+    "Agent_Name": "Prateeksha Nahar",
+    "Agent_Email": "basanti_mistry116@hotmail.com",
+    "Customer_Satisfaction": "Partially Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "aa1166c0aaba",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Jagannath Mazumdar",
+    "Agent_Email": "pratibha_marandi751@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "0a314129e926",
+    "Text_Description": "Add question",
+    "Question": "What was the first element discovered on another planet?",
+    "Answer": "Ice Hockey",
+    "Agent_Name": "Atharva Gurjar",
+    "Agent_Email": "sujit_govil371@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "58ffd516376c",
+    "Text_Description": "Add question",
+    "Question": "What is the world's smallest bone?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Ujjwala Seth",
+    "Agent_Email": "prajjwal_bhatia536@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "113c8865b089",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Durian",
+    "Agent_Name": "Meghna Raina",
+    "Agent_Email": "rahul_ghosh942@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "09c1535a7906",
+    "Text_Description": "Update question",
+    "Question": "What is the capital of Germany?",
+    "Answer": "Paris",
+    "Agent_Name": "Arvind Ambedkar",
+    "Agent_Email": "hansika_pawar546@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ea6fcb3ee8cb",
+    "Text_Description": "Update question",
+    "Question": "What is the only letter that appears twice in its own name in American Sign Language?",
+    "Answer": "Jupiter",
+    "Agent_Name": "Premchand Dutta",
+    "Agent_Email": "simran_marandi465@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "4c687145ea2a",
+    "Text_Description": "Add question",
+    "Question": "What continent boasts the nickname \"Mother Africa\"?",
+    "Answer": "Portuguese",
+    "Agent_Name": "Ananya Bansal",
+    "Agent_Email": "surabhi_khaitan902@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "1af5b2ef21f7",
+    "Text_Description": "Add question",
+    "Question": "What is the world's oldest forest?",
+    "Answer": "Ostrich",
+    "Agent_Name": "Suman Kher",
+    "Agent_Email": "ashwin_rana838@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "992398a61171",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for gold?",
+    "Answer": "Pasta",
+    "Agent_Name": "Akash Bhattacharya",
+    "Agent_Email": "swapnil_bose941@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "74e5d5159aad",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's tallest waterfall?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Dhwani Jethwani",
+    "Agent_Email": "juhi_bishnoi620@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "5291ac26435a",
+    "Text_Description": "Check answer",
+    "Question": "What is the name of the world's highest mountain range?",
+    "Answer": "Berlin",
+    "Agent_Name": "Natwar Mohanty",
+    "Agent_Email": "neeloo_mahto106@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "029c7c7748e5",
+    "Text_Description": "Add question",
+    "Question": "What is the chemical symbol for neon?",
+    "Answer": "Eastern gorilla",
+    "Agent_Name": "Madhur Kharwar",
+    "Agent_Email": "rishabh_dhanuka979@hotmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a9bba90bf2d6",
+    "Text_Description": "Add question",
+    "Question": "What is the national language of Spain?",
+    "Answer": "Pacific",
+    "Agent_Name": "Prakash Gurjar",
+    "Agent_Email": "ashutosh_unadkat375@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "3b28e31ae6ef",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's oldest city?",
+    "Answer": "Durian",
+    "Agent_Name": "Lavisha Anand",
+    "Agent_Email": "suresh_rathore540@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "0d9e263101d2",
+    "Text_Description": "Update question",
+    "Question": "What event marks the official start of winter in the Northern Hemisphere?",
+    "Answer": "Arctic",
+    "Agent_Name": "Dolly Desai",
+    "Agent_Email": "darshan_ojha185@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "68a72181f3c3",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent that doesn't have penguins?",
+    "Answer": "Antarctica",
+    "Agent_Name": "Amrita Lakhotia",
+    "Agent_Email": "mahalakshmi_gaharwar164@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "8aacd85a1b33",
+    "Text_Description": "Add question",
+    "Question": "What is the language spoken in Brazil?",
+    "Answer": "Spanish",
+    "Agent_Name": "Suryaprakash Acharya",
+    "Agent_Email": "malti_chandrachud946@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "94dcaeecf68e",
+    "Text_Description": "Add question",
+    "Question": "What continent encompasses the Amazon rainforest?",
+    "Answer": "Bee Hummingbird",
+    "Agent_Name": "Chandrakala Bahuguna",
+    "Agent_Email": "gangotri_kashyap954@gmail.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a793d460d7dd",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Durian",
+    "Agent_Name": "Ramdhari Jindal",
+    "Agent_Email": "sanatan_modi368@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "a5b9002f98f8",
+    "Text_Description": "Add question",
+    "Question": "What is the tallest mountain in the world?",
+    "Answer": "Nile",
+    "Agent_Name": "Prabhavati Munda",
+    "Agent_Email": "nishant_mangeshkar997@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "e30fe301d5cb",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "Ganymede",
+    "Agent_Name": "Mudrika Dixit",
+    "Agent_Email": "shivesh_bhadauria134@outlook.com",
+    "Customer_Satisfaction": "Not Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "ad68c0c94881",
+    "Text_Description": "Add question",
+    "Question": "What is the world's oldest city still inhabited?",
+    "Answer": "Boston",
+    "Agent_Name": "Nitisha Bhawsar",
+    "Agent_Email": "gauri_mukherjee377@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "27f16039b466",
+    "Text_Description": "Add question",
+    "Question": "What is the only mammal that can't breathe underwater?",
+    "Answer": "South America",
+    "Agent_Name": "Deepika Rawat",
+    "Agent_Email": "raushan_dadlani283@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "2343ecd763b9",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "Himalayas",
+    "Agent_Name": "Swara Bisht",
+    "Agent_Email": "varsha_nautiyal585@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "f871afa16032",
+    "Text_Description": "Add question",
+    "Question": "What is the name of the world's largest island?",
+    "Answer": "French",
+    "Agent_Name": "Bhaskar Bahuguna",
+    "Agent_Email": "dipu_saini695@hotmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "fb2dbb606b35",
+    "Text_Description": "Add question",
+    "Question": "What food is known as the \"king of fruits\"?",
+    "Answer": "AB negative",
+    "Agent_Name": "Riti Sagar",
+    "Agent_Email": "bhavika_kamal619@gmail.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "26119657977a",
+    "Text_Description": "Add question",
+    "Question": "What is the only continent without native reptiles?",
+    "Answer": "Durian",
+    "Agent_Name": "Mitali Dalal",
+    "Agent_Email": "navya_dalal215@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Not Resolved"
+  },
+  {
+    "Ticket_ID": "5e117a647642",
+    "Text_Description": "Check answer",
+    "Question": "What language has the most words?",
+    "Answer": "Durian",
+    "Agent_Name": "Shivam Mishra",
+    "Agent_Email": "nitya_sood270@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "24d0d6567961",
+    "Text_Description": "Add question",
+    "Question": "What animal can lick its own elbow?",
+    "Answer": "Artichoke",
+    "Agent_Name": "Meghna Dadhich",
+    "Agent_Email": "gomed_gaitonde227@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  },
+  {
+    "Ticket_ID": "343ecfcd40cc",
+    "Text_Description": "Add question",
+    "Question": "What ancient civilization built the iconic pyramids of Giza?",
+    "Answer": "Spanish",
+    "Agent_Name": "Anjani Bahl",
+    "Agent_Email": "geetanjali_rathod277@outlook.com",
+    "Customer_Satisfaction": "Satisfied",
+    "Agent_Satisfaction": "Successfully Resolved"
+  }
+]

@@ -20,5 +20,14 @@ The entire flow of smart suggestions generated for customer queries can be descr
   <p align = "center">Flowchart of Smart Suggestions</p>
 </p>
 
+## Tech Stack Used:
+<p align="center"> 
+  <img src = "https://github.com/gautamkhaire/Sampark-Sarita-SIH/assets/106017337/9478d2c8-ef2e-4286-99b2-ce21db91a18f">
+  <p align = "center">Tech Stack</p>
+</p>
 
-
+## Functionalities Provided:
+<p align="center"> 
+  <img src = "https://github.com/gautamkhaire/Sampark-Sarita-SIH/assets/106017337/46213eed-774a-4d2e-86e8-c5c9579b0bac">
+  <p align = "center">Use Case Diagram</p>
+</p>

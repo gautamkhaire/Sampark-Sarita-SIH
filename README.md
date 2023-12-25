@@ -9,9 +9,9 @@ Ditch the dusty, age-old manuals and unlock a knowledge oasis with our end-to-en
 ## Innovative Features:
 - Real-time Smart Suggestions: Accelerate issue resolution with this decision-tree-powered automated suggestion feature.
 - Detailed Agent Statistics: Gain comprehensive insights into agent performance with detailed statistics for informed decision-making.
-- Voice Integration: Enable seamless communication between customers and agents with real-time speech transcription and calling
-- Auto-Decision Tree Generator: Streamline the creation of detailed decision trees with an easy-to-use, automated visual tool 
-- Multi-lingual Support: Enable instant support to a wide customer base in India across multiple languages
+- Voice Integration: Enable seamless communication between customers and agents with real-time speech transcription and calling.
+- Auto-Decision Tree Generator: Streamline the creation of detailed decision trees with an easy-to-use, automated visual tool.
+- Multi-lingual Support: Enable instant support to a wide customer base in India across multiple languages.
 
 The entire flow of smart suggestions generated for customer queries can be described as follows:
 
